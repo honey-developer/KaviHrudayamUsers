@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "568608563703",
+    "firebase_url": "https://kavi-hrudayam.firebaseio.com",
+    "project_id": "kavi-hrudayam",
+    "storage_bucket": "kavi-hrudayam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568608563703:android:881a43bdab54c6ff450ef2",
+        "android_client_info": {
+          "package_name": "com.nenu.kavihrudayam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568608563703-7g1e26mf5hld77d55qffsemugtnpglds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEv_akRxDw3h_XTKhE8NF69MBCneLuEL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568608563703-7g1e26mf5hld77d55qffsemugtnpglds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568608563703:android:3a37b6cde138425a450ef2",
+        "android_client_info": {
+          "package_name": "com.nenu.kavihrudayamusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568608563703-7g1e26mf5hld77d55qffsemugtnpglds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEv_akRxDw3h_XTKhE8NF69MBCneLuEL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568608563703-7g1e26mf5hld77d55qffsemugtnpglds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
